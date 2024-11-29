@@ -1,9 +1,8 @@
 /* Terms of Service Styles */
-
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f0f5;
-    color: #2b2b2b;
+    background-color: #1e1e2e;
+    color: #ffffff;
     margin: 0;
     padding: 0;
     display: flex;
@@ -26,16 +25,16 @@ main {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #2b2b3d;
     border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
 main h1 {
     font-size: 2.5rem;
     margin-bottom: 20px;
     text-align: center;
-    color: #ff4500;
+    color: #00aaff;
 }
 
 main p {
@@ -49,7 +48,7 @@ main h2 {
     font-size: 1.8rem;
     margin-top: 20px;
     margin-bottom: 10px;
-    color: #ff4500;
+    color: #00aaff;
 }
 
 main ul {
@@ -65,13 +64,13 @@ main ul li {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #ff4500;
-    color: #ffffff;
+    background-color: #12121b;
+    color: #bbbbbb;
     width: 100%;
 }
 
 footer a {
-    color: #ffffff;
+    color: #00aaff;
     text-decoration: none;
     margin: 0 5px;
 }
